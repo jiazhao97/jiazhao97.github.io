@@ -12,7 +12,7 @@ redirect_from:
 
 
 <p style="text-align: justify">
-I am a Postdoctoral Associate in the Department of Biostatistics at the Yale School of Public Health, mentored by <a href="https://zhaocenter.org/index.html" style="color:#52adc8;">Prof. Hongyu Zhao</a> and <a href="https://medicine.yale.edu/profile/rui-chang/" style="color:#52adc8;">Prof. Rui Chang</a>. I obtained my PhD degree from The Hong Kong University of Science and Technology supervised by <a href="https://sites.google.com/site/eeyangc/"  style="color:#52adc8;">Prof. Can Yang</a>.
+I am a Postdoctoral Associate in the Department of Biostatistics at the Yale School of Public Health, mentored by <a href="https://zhaocenter.org/index.html" style="color:#2f7f93;">Prof. Hongyu Zhao</a> and <a href="https://medicine.yale.edu/profile/rui-chang/" style="color:#2f7f93;">Prof. Rui Chang</a>. I obtained my PhD degree from The Hong Kong University of Science and Technology supervised by <a href="https://sites.google.com/site/eeyangc/"  style="color:#2f7f93;">Prof. Can Yang</a>.
 </p>
 
 <p style="text-align: justify">
