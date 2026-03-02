@@ -8,21 +8,44 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
 
-I earned my PhD in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-BA in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) in the
-*American Political Science Review*, *International Studies Quarterly*,
-*Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets. This
-[research](research) explores the causes and consequences of political violence
-using a broad variety of methods such as latent variable models, geospatial
-analysis, and big data. I have [taught](teaching) quantitative methodology and
-international relations, and am a certified instructor with
-[The Carpentries](https://carpentries.org).
+<p style="text-align: justify">
+I am a Postdoctoral Associate in the Department of Biostatistics at the Yale School of Public Health, mentored by Prof. Hongyu Zhao (<a href="https://zhaocenter.org/index.html">website</a>) and Prof. Rui Chang (<a href="https://medicine.yale.edu/profile/rui-chang/">website</a>). I obtained my PhD degree from The Hong Kong University of Science and Technology supervised by Prof. Can Yang (<a href="https://sites.google.com/site/eeyangc/">website</a>).
+</p>
+
+<p style="text-align: justify">
+My broad area of interest lies in statistical learning and deep learning with their applications in genomics and genetics data. I have been working on statistical and deep learning methods for integrative analysis of large-scale single-cell and spatial omics datasets, as well as statistical approaches for causal inference in genetics.
+</p>
+
+
+Empolyment
+------
+* Postdoctoral Associate, Yale University, 2023.10-present.
+
+
+Educaton
+------
+* PhD in Mathematics, The Hong Kong University of Science and Technology, 2019.9-2023.8.
+* Bachelor of Science in Mathematics, Beijing Normal University, 2015.9-2019.6.
+
+
+Honors
+------
+* STATGEN Travel Award, 2025.
+* Statistics in Biosciences Best Paper Award, Statistics in Biosciences, 2024.
+* Hong Kong PhD Fellowship (HKPFS) Extra Funding Award for Outstanding Academic and Research Performance, School of Science, HKUST, 2023.
+* HKUST RedBird Academic Excellence Award, HKUST, 2022.
+* Best Teaching Assistant for the Din-Yu Hsieh Teaching Awards, Department of Mathematics, HKUST, 2022.
+* Best Teaching Assistant for the Din-Yu Hsieh Teaching Awards, Department of Mathematics, HKUST, 2021.
+* Epsilon Fund Award, Department of Mathematics, HKUST, 2021.
+* HKUST Excellent Research Award, HKUST, 2019
+* Hong Kong PhD Fellowship (HKPFS), Research Grants Council (RGC), 2019-2023.
+* Beijing Outstanding Graduate, Beijing Municipal Commission of Education, 2019.
+* National Scholarship, Ministry of Education of the People's Republic of China, 2018.
+
+
+Professional activities
+------
+* Reviewer for *Genome Research*, *Annals of Applied Statistics*, *Journal of Translational Medicine*, *Computational and Structural Biotechnology Journal*, *Human Genomics*, and *Bioinformatics Advances*.
+
+
