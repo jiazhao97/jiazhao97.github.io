@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+------
+
 
 <p style="text-align: justify">
 I am a Postdoctoral Associate in the Department of Biostatistics at the Yale School of Public Health, mentored by Prof. Hongyu Zhao (<a href="https://zhaocenter.org/index.html">website</a>) and Prof. Rui Chang (<a href="https://medicine.yale.edu/profile/rui-chang/">website</a>). I obtained my PhD degree from The Hong Kong University of Science and Technology supervised by Prof. Can Yang (<a href="https://sites.google.com/site/eeyangc/">website</a>).
