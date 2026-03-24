@@ -17,18 +17,17 @@ author_profile: true
 
 Preprints
 ------
-* I-Uen Hsu, **Jia Zhao**, Yingxin Lin, Yunshan Guo, Qian Xu, Yuancheng Shao, Ruiqi Wang, Dominc Yin, Kakali Ghoshal, Rida Mourad, Ambra Pozzi, Carmen Halabi, Lawrence Young, Hongyu Zhao, Le Zhang (#), Rui Chang (#). Lineage Prepatterning and Organ Instructions Sequentially Build Organ Intrinsic Nervous Systems. ***Preprint***. 2026+.
-
-* **Jia Zhao**, Xiangyu Zhang, Gefei Wang, Yingxin Lin, Tianyu Liu, Rui B. Chang, Hongyu Zhao (#). INSPIRE: interpretable, flexible and spatially-aware integration of multiple spatial transcriptomics datasets from diverse sources. ***Preprint***. 2026+. \[[bioRxiv](https://doi.org/10.1101/2024.09.23.614539)\] \[[Software](https://github.com/jiazhao97/INSPIRE)\] \[[Website](https://inspire-tutorial.readthedocs.io/en/latest/index.html#)\]
-
 * Gefei Wang, Tianyu Liu, **Jia Zhao**, Youshu Cheng, Hongyu Zhao (#). Modeling and predicting single-cell multi-gene perturbation responses with scLAMBDA. ***Preprint***. 2026+. \[[bioRxiv](https://doi.org/10.1101/2024.12.04.626878)\] \[[Software](https://github.com/gefeiwang/scLAMBDA)\]
-
-* Yunshan Guo, **Jia Zhao**, Rui B. Chang, Hongyu Zhao (#). scGPD: single-cell informed gene panel design for targeted spatial transcriptomics. ***Preprint***. 2026+. \[[bioRxiv](https://doi.org/10.1101/2025.10.02.680117)\] \[[Software](https://github.com/TinaGuo/scGPD)\]
-
 
 
 Publications
 ------
+* I-Uen Hsu, **Jia Zhao**, Yingxin Lin, Yunshan Guo, Qian Xu, Yuancheng Shao, Ruiqi Wang, Dominc Yin, Kakali Ghoshal, Rida Mourad, Ambra Pozzi, Carmen Halabi, Lawrence Young, Hongyu Zhao, Le Zhang (#), Rui Chang (#). Lineage Prepatterning and Organ Instructions Sequentially Build Organ Intrinsic Nervous Systems. ***Nature***. In press, 2026.
+
+* **Jia Zhao**, Xiangyu Zhang, Gefei Wang, Yingxin Lin, Tianyu Liu, Rui B. Chang, Hongyu Zhao (#). Interpretable, flexible and spatially-aware integration of multiple spatial transcriptomics datasets from diverse sources. ***Nature Genetics***. In press, 2026. \[[bioRxiv](https://doi.org/10.1101/2024.09.23.614539)\] \[[Software](https://github.com/jiazhao97/INSPIRE)\] \[[Website](https://inspire-tutorial.readthedocs.io/en/latest/index.html#)\]
+
+* Yunshan Guo, **Jia Zhao**, Rui B. Chang, Hongyu Zhao (#). scGPD: single-cell informed gene panel design for targeted spatial transcriptomics. ***Briefings in Bioinformatics***. In press, 2026. \[[bioRxiv](https://doi.org/10.1101/2025.10.02.680117)\] \[[Software](https://github.com/TinaGuo/scGPD)\]
+
 * Leqi Xu, Wangjie Zheng, Jiaqi Hu, Yingxin Lin, **Jia Zhao**, Gefei Wang, Tianyu Liu, Hongyu Zhao (\#). Improving polygenic risk prediction performance by integrating electronic health records by phenotype embedding. ***The American Journal of Human Genetics***. 112(12), 3030-3045, 2025. \[[AJHG](https://www.cell.com/ajhg/fulltext/S0002-9297(25)00431-8)\] \[[bioRxiv](https://doi.org/10.1101/2025.08.05.668705)\] \[[Software](https://github.com/YCSGP/EEPRS)\]
 
 * **The Tabula Microcebus Consortium**†, Camille Ezran (\*), Shixuan Liu (\*), Stephen Chang (\*), Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree, Kyle J. Travaglini, **Jia Zhao**, Gefei Wang, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell, Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff, Angela Ruohao Wu, Stephen R. Quake (\#), Mark A. Krasnow (\#). †Jia Zhao is a member of the Tabula Microcebus Consortium. A molecular cell atlas of mouse lemur, an emerging model primate. ***Nature***. 644(8075), 173-184, 2025. \[[Nature](https://www.nature.com/articles/s41586-025-09113-9)\] \[[bioRxiv](https://doi.org/10.1101/2021.12.12.469460)\] \[[Website](https://tabula-microcebus.sf.czbiohub.org/)\]
