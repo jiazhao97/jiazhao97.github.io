@@ -15,6 +15,5 @@ author_profile: true
 * Adversarial domain translation networks for fast and accurate integration of large-scale atlas-level single-cell datasets. Invited talk at **Capital of Statistics**. Online. March, 2023.
 
 
-Posters
-------
+# Poster
 * INSPIRE: interpretable, flexible and spatially-aware integration of multiple spatial transcriptomics datasets from diverse sources. Poster at **2024 PQG Conference: AI for Genomics and Health**. Harvard University. October, 2024.
