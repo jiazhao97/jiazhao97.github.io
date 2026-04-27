@@ -24,7 +24,7 @@ Publications
 ------
 * I-Uen Hsu, **Jia Zhao**, Yingxin Lin, Yunshan Guo, Qian Xu, Yuancheng Shao, Ruiqi Wang, Dominc Yin, Kakali Ghoshal, Rida Mourad, Ambra Pozzi, Carmen Halabi, Lawrence Young, Hongyu Zhao, Le Zhang (#), Rui Chang (#). Lineage Prepatterning and Organ Instructions Sequentially Build Organ Intrinsic Nervous Systems. ***Nature***. In press, 2026.
 
-* **Jia Zhao**, Xiangyu Zhang, Gefei Wang, Yingxin Lin, Tianyu Liu, Rui B. Chang, Hongyu Zhao (#). Interpretable, flexible and spatially-aware integration of multiple spatial transcriptomics datasets from diverse sources. ***Nature Genetics***. 2026. \[[Nature Genetics](https://www.nature.com/articles/s41588-026-02579-x)\] \[[bioRxiv](https://doi.org/10.1101/2024.09.23.614539)\] \[[Software](https://github.com/jiazhao97/INSPIRE)\] \[[Website](https://inspire-tutorial.readthedocs.io/en/latest/index.html#)\]
+* **Jia Zhao**, Xiangyu Zhang, Gefei Wang, Yingxin Lin, Tianyu Liu, Rui B. Chang, Hongyu Zhao (#). Interpretable, flexible and spatially aware integration of multiple spatial transcriptomics datasets from diverse sources. ***Nature Genetics***. 2026. \[[Nature Genetics](https://www.nature.com/articles/s41588-026-02579-x)\] \[[bioRxiv](https://doi.org/10.1101/2024.09.23.614539)\] \[[Software](https://github.com/jiazhao97/INSPIRE)\] \[[Website](https://inspire-tutorial.readthedocs.io/en/latest/index.html#)\]
 
 * Yunshan Guo, **Jia Zhao**, Rui B. Chang, Hongyu Zhao (#). scGPD: single-cell informed gene panel design for targeted spatial transcriptomics. ***Briefings in Bioinformatics***. 27(2), bbag160, 2026. \[[Briefings in Bioinformatics](https://doi.org/10.1093/bib/bbag160)\] \[[bioRxiv](https://doi.org/10.1101/2025.10.02.680117)\] \[[Software](https://github.com/TinaGuo/scGPD)\]
 
