@@ -22,7 +22,7 @@ Preprints
 
 Publications
 ------
-* I-Uen Hsu, **Jia Zhao**, Yingxin Lin, Yunshan Guo, Qian Xu, Yuancheng Shao, Ruiqi Wang, Dominc Yin, Kakali Ghoshal, Rida Mourad, Ambra Pozzi, Carmen Halabi, Lawrence Young, Hongyu Zhao, Le Zhang (#), Rui Chang (#). Lineage Prepatterning and Organ Instructions Sequentially Build Organ Intrinsic Nervous Systems. ***Nature***. In press, 2026.
+* I-Uen Yvonne Hsu, **Jia Zhao**, Yingxin Lin, Yunshan Guo, Qian J. Xu, Yuancheng Shao, Ruiqi L. Wang, Dominc Yin, Kakali Ghoshal, Rida Mourad, Ambra Pozzi, Carmen M. Halabi, Lawrence H. Young, Hongyu Zhao, Le Zhang (#), Rui B. Chang (#). Lineage and organ signals sequentially build organ intrinsic nervous systems. ***Nature***. 2026. \[[Nature](https://www.nature.com/articles/s41586-026-10490-y)\] \[[Codes](https://github.com/lezhanglab/Organ-Intrinsic-Nervous-Systems)\] 
 
 * **Jia Zhao**, Xiangyu Zhang, Gefei Wang, Yingxin Lin, Tianyu Liu, Rui B. Chang, Hongyu Zhao (#). Interpretable, flexible and spatially aware integration of multiple spatial transcriptomics datasets from diverse sources. ***Nature Genetics***. 2026. \[[Nature Genetics](https://www.nature.com/articles/s41588-026-02579-x)\] \[[bioRxiv](https://doi.org/10.1101/2024.09.23.614539)\] \[[Software](https://github.com/jiazhao97/INSPIRE)\] \[[Website](https://inspire-tutorial.readthedocs.io/en/latest/index.html#)\]
 
