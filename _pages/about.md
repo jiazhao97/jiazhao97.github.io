@@ -48,6 +48,6 @@ Honors
 
 Professional activities
 ------
-* Reviewer for *Genome Research*, *Annals of Applied Statistics*, *Journal of Translational Medicine*, *Computational and Structural Biotechnology Journal*, *Human Genomics*, and *Bioinformatics Advances*.
+* Reviewer for *Nature Computational Science*, *Genome Research*, *Annals of Applied Statistics*, *Journal of Translational Medicine*, *Computational and Structural Biotechnology Journal*, *Human Genomics*, and *Bioinformatics Advances*.
 
 
