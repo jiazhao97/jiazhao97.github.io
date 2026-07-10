@@ -19,6 +19,8 @@ Preprints
 ------
 * Gefei Wang, Tianyu Liu, **Jia Zhao**, Youshu Cheng, Hongyu Zhao (#). Modeling and predicting single-cell multi-gene perturbation responses with scLAMBDA. ***Preprint***. 2026+. \[[bioRxiv](https://doi.org/10.1101/2024.12.04.626878)\] \[[Software](https://github.com/gefeiwang/scLAMBDA)\]
 
+* **Jia Zhao**, Xinning Shan, Gefei Wang, Tinyi Chu, Chen Lin, Rui B. Chang, Hongyu Zhao (#). Spatial co-expression and cell-cell communication inference from spatially resolved transcriptomics with CONCISE. ***Preprint***. 2026+. \[[bioRxiv](https://doi.org/10.64898/2026.06.22.733860)\] \[[Software](https://github.com/jiazhao97/CONCISE)\] \[[Website](https://jiazhao97.github.io/CONCISE-tutorial/)\]
+
 
 Publications
 ------
