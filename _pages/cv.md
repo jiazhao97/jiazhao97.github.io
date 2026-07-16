@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "CV"
-excerpt: "CV"
+permalink: /resume/
 author_profile: true
-redirect_from: 
-  - /cv/
-  - /cv.html
 ---
 
 ------
