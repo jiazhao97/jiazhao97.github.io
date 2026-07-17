@@ -29,9 +29,9 @@ You can download a copy of my CV [here](/files/cv.Jia.Zhao.20260716.pdf).
 
 Research Interest
 ------
-* Deep learning
-* Statistical inference
-* AI for science
+* Deep Learning
+* Statistical Learning
+* AI for Science
 
 
 Contact
