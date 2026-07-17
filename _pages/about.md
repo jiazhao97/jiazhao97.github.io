@@ -12,11 +12,15 @@ redirect_from:
 
 
 <p style="text-align: justify">
-I am currently a Postdoctoral Associate in the Department of Biostatistics at Yale University, mentored by <a href="https://zhaocenter.org/index.html" style="color:#00356b;">Prof. Hongyu Zhao</a> and <a href="https://medicine.yale.edu/profile/rui-chang/" style="color:#00356b;">Prof. Rui Chang</a>. I obtained my PhD degree from the Hong Kong University of Science and Technology supervised by <a href="https://sites.google.com/site/eeyangc/" style="color:#00356b;">Prof. Can Yang</a>.
+I am currently a tenure-track Associate Professor in the School of Mathematical Sciences at Shanghai Jiao Tong University.
 </p>
 
 <p style="text-align: justify">
-My broad area of interest lies in statistical learning and deep learning with their applications in genomics and genetics data. I have been working on statistical and deep learning methods for integrative analysis of large-scale single-cell and spatial omics datasets, as well as statistical approaches for causal inference in genetics.
+Before that, I was a Postdoctoral Associate in the Department of Biostatistics at Yale University, mentored by <a href="https://zhaocenter.org/index.html" style="color:#00356b;">Prof. Hongyu Zhao</a> and <a href="https://medicine.yale.edu/profile/rui-chang/" style="color:#00356b;">Prof. Rui Chang</a>. I obtained my PhD degree from the Hong Kong University of Science and Technology supervised by <a href="https://sites.google.com/site/eeyangc/" style="color:#00356b;">Prof. Can Yang</a>.
+</p>
+
+<p style="text-align: justify">
+Our research group develops novel artificial intelligence (AI), machine learning, and statistical methods to address fundamental challenges in data science, with a particular focus on large-scale biomedical data. We are particularly interested in designing AI-driven, statistically principled, and computationally efficient algorithms for analyzing single-cell, spatial omics, and genetic data. Our research combines methodological innovation with real-world applications, developing reliable computational tools that enable knowledge discovery and generate new insights into biological systems and human disease.
 </p>
 
 
