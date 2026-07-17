@@ -25,34 +25,17 @@ Our group develops novel artificial intelligence (AI), machine learning, and sta
 
 You can download a copy of my CV [here](/files/cv.Jia.Zhao.20260716.pdf).
 
-Empolyment
+
+Research Interest
 ------
-* Postdoctoral Associate, Yale University, 2023.10-present.
+* Deep learning
+* Statistical inference
+* AI for science
 
 
-Educaton
+Contact
 ------
-* PhD in Mathematics, The Hong Kong University of Science and Technology, 2019.9-2023.8.
-* Bachelor of Science in Mathematics, Beijing Normal University, 2015.9-2019.6.
-
-
-Honors
-------
-* STATGEN Travel Award, 2025.
-* Statistics in Biosciences Best Paper Award, Statistics in Biosciences, 2024.
-* Hong Kong PhD Fellowship (HKPFS) Extra Funding Award for Outstanding Academic and Research Performance, School of Science, HKUST, 2023.
-* HKUST RedBird Academic Excellence Award, HKUST, 2022.
-* Best Teaching Assistant for the Din-Yu Hsieh Teaching Awards, Department of Mathematics, HKUST, 2022.
-* Best Teaching Assistant for the Din-Yu Hsieh Teaching Awards, Department of Mathematics, HKUST, 2021.
-* Epsilon Fund Award, Department of Mathematics, HKUST, 2021.
-* HKUST Excellent Research Award, HKUST, 2019
-* Hong Kong PhD Fellowship (HKPFS), Research Grants Council (RGC), 2019-2023.
-* Beijing Outstanding Graduate, Beijing Municipal Commission of Education, 2019.
-* National Scholarship, Ministry of Education of the People's Republic of China, 2018.
-
-
-Professional activities
-------
-* Reviewer for *Cell*, *Nature Computational Science*, *Genome Research*, *Annals of Applied Statistics*, *Journal of Translational Medicine*, *Computational and Structural Biotechnology Journal*, *Human Genomics*, and *Bioinformatics Advances*.
+We are actively looking for motivated students and postdoctoral researchers to join our group. If you are interested in our research, please send your CV to me by email. 
+* My email: jia(dot)zhao(at)sjtu(dot)edu(dot)cn
 
 
