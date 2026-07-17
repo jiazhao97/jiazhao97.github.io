@@ -20,7 +20,7 @@ Before that, I was a Postdoctoral Associate in the Department of Biostatistics a
 </p>
 
 <p style="text-align: justify">
-Our group develops artificial intelligence (AI), machine learning, and statistical methods to address fundamental challenges in data science, with a particular focus on large-scale biomedical data. We are interested in designing AI-driven and statistically principled algorithms for analyzing single-cell, spatial omics, and genetic data. Our research combines methodological innovation with real-world applications, developing reliable computational tools that enable knowledge discovery and generate new insights into biological systems and human disease.
+Our group develops artificial intelligence (AI), machine learning, and statistical methods to address fundamental challenges in data science, with a particular focus on large-scale biomedical data. We are interested in designing AI-driven and statistically principled algorithms for analyzing single-cell, spatial omics, and genetic data. Our research combines methodological innovation with real-world applications, developing reliable computational tools that generate new insights into biological systems and human disease.
 </p>
 
 
