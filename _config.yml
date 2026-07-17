@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Jia Zhao, Ph.D."
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Associate"
-  location         : "New Haven, CT, USA"
-  employer         : "Yale University"
+  bio              : "Tenure-track Associate Professor"
+  location         : "Shanghai, China"
+  employer         : "Shanghai Jiao Tong University"
   pubmed           :
   orcid            : "https://orcid.org/0000-0002-9107-8852"
   googlescholar    : "https://scholar.google.com/citations?user=ENajn5YAAAAJ&hl=en"
-  email            : "jia.zhao@yale.edu" 
+  email            : "jia.zhao@sjtu.edu.cn" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
