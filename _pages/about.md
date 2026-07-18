@@ -21,7 +21,7 @@ Before that, I was a Postdoctoral Associate in the Department of Biostatistics a
 </p>
 
 <p style="text-align: justify">
-Our group develops novel artificial intelligence (AI), machine learning, and statistical methods to address fundamental challenges in data science, with a particular focus on large-scale biomedical data. We are particularly interested in designing AI-driven, statistically principled, and computationally efficient algorithms for analyzing single-cell, spatial omics, and genetic data. By combining methodological innovation with real-world applications, we develop reliable computational tools that enable knowledge discovery and generate new insights into biological systems and human disease.
+Our group develops novel artificial intelligence (AI), machine learning, and statistical methods to address fundamental challenges in data science, with a particular focus on large-scale biomedical data. We are interested in designing AI-driven, statistically principled, and computationally efficient algorithms for analyzing single-cell, spatial omics, and genetic data. By combining methodological innovation with real-world applications, we develop reliable computational tools that enable knowledge discovery and generate new insights into biological systems and human disease.
 </p>
 
 You can download a copy of my CV [here](/files/cv.Jia.Zhao.20260716.pdf).
