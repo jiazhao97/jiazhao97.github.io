@@ -19,7 +19,7 @@ Before that, I was a Postdoctoral Associate in the Department of Biostatistics a
 </p>
 
 <p style="text-align: justify">
-The central theme of my research is to develop novel statistical learning and deep learning methods to address fundamental challenges in data science, with a particular focus on large-scale biomedical data. Our research develops AI-driven, statistically principled, and computationally efficient algorithms for analyzing single-cell, spatial omics, and genetic data. By integrating methodological innovation with biomedical applications, we aim to build reliable computational frameworks that enable scientific discovery and deepen our understanding of health and disease.
+My research focuses on developing novel statistical learning and artificial intelligence (AI) methods to address fundamental challenges in data science, with an emphasis on large-scale biomedical data. We develop AI-driven, statistically principled, and computationally efficient approaches for analyzing single-cell, spatial omics, and genetic data. By bridging methodological innovation with biomedical applications, our research aims to create reliable computational frameworks that advance scientific discovery and deepen our understanding of health and disease.
 </p>
   
 We are actively looking for motivated students and postdoctoral researchers to join our group. If you are interested in our research, please send your CV to me by email. 
