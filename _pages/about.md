@@ -19,8 +19,10 @@ Before that, I was a Postdoctoral Associate in the Department of Biostatistics a
 </p>
 
 <p style="text-align: justify">
-Our group develops novel artificial intelligence (AI), machine learning, and statistical methods to address fundamental challenges in data science, with a particular focus on large-scale biomedical data. We are interested in designing AI-driven, statistically principled, and computationally efficient algorithms for analyzing single-cell, spatial omics, and genetic data. By integrating methodological innovation with real-world applications, we develop reliable computational tools that enable biological discovery and provide new insights into development, health, and disease.
+Our group develops novel artificial intelligence (AI), machine learning, and statistical methods to address fundamental challenges in data science, with a particular focus on large-scale biomedical data. We are interested in designing AI-driven, statistically principled, and computationally efficient algorithms for analyzing single-cell, spatial omics, and genetic data. By integrating methodological innovation with real-world applications, we develop reliable computational tools that enable biological discovery and provide new insights into health and disease.
 </p>
+
+We are actively looking for motivated students and postdoctoral researchers to join our group. If you are interested in our research, please send your CV to me by email. 
 
 This is [my Homepage at SJTU Website](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLJ4fpeGpKF2). You can download a copy of my CV [here](/files/cv.Jia.Zhao.20260716.pdf).
 
@@ -34,7 +36,6 @@ Research Interest
 
 Contact
 ------
-We are actively looking for motivated students and postdoctoral researchers to join our group. If you are interested in our research, please send your CV to me by email. 
 * My email: jia(dot)zhao(at)sjtu(dot)edu(dot)cn
 
 
