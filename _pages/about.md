@@ -10,8 +10,6 @@ redirect_from:
 
 ------
 
-[My Homepage at SJTU Website](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLJ4fpeGpKF2)
-
 <p style="text-align: justify">
 I am currently a tenure-track Associate Professor in the School of Mathematical Sciences at Shanghai Jiao Tong University.
 </p>
@@ -21,10 +19,10 @@ Before that, I was a Postdoctoral Associate in the Department of Biostatistics a
 </p>
 
 <p style="text-align: justify">
-Our group develops novel artificial intelligence (AI), machine learning, and statistical methods to address fundamental challenges in data science, with a particular focus on large-scale biomedical data. We are interested in designing AI-driven, statistically principled, and computationally efficient algorithms for analyzing single-cell, spatial omics, and genetic data. By combining methodological innovation with real-world applications, we develop reliable computational tools that enable knowledge discovery and generate new insights into biological systems and human disease.
+Our group develops novel artificial intelligence (AI), machine learning, and statistical methods to address fundamental challenges in data science, with a particular focus on large-scale biomedical data. We are interested in designing AI-driven, statistically principled, and computationally efficient algorithms for analyzing single-cell, spatial omics, and genetic data. By integrating methodological innovation with real-world applications, we develop reliable computational tools that enable biological discovery and provide new insights into development, health, and disease.
 </p>
 
-You can download a copy of my CV [here](/files/cv.Jia.Zhao.20260716.pdf).
+This is [my Homepage at SJTU Website](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLJ4fpeGpKF2). You can download a copy of my CV [here](/files/cv.Jia.Zhao.20260716.pdf).
 
 
 Research Interest
