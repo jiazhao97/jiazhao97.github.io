@@ -1,4 +1,3 @@
-<img width="1034" height="62" alt="image" src="https://github.com/user-attachments/assets/bb4fadd6-a9f7-4cc8-b809-6c0e33de8a59" />---
 layout: archive
 title: "Talks"
 permalink: /talks/
