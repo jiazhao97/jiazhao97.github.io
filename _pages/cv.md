@@ -42,6 +42,7 @@ Reviewer for
 * *Nature Computational Science*
 * *Genome Research*
 * *Annals of Applied Statistics*
+* *Briefings in Bioinformatics*
 * *Journal of Translational Medicine*
 * *Computational and Structural Biotechnology Journal*
 * *Human Genomics*
