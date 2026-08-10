@@ -36,6 +36,6 @@ Research Interest
 
 Contact
 ------
-* My email: jia(dot)zhao(at)sjtu(dot)edu(dot)cn
+* My email: jia.zhao@sjtu.edu.cn
 
 
